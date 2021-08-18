@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styling.css" >
+  </head>
+  <body>
+    <div class="topnav" id="myTopnav">
+      <a href="http://tiffin.gq" class="active">Home</a>
+      <a href="bio.html">Biology</a>
+      <a href="chem.html">Chemistry</a>
+      <a href="maths.html">Maths</a>
+      <a href="phys.html">Physics</a>
+      <a href="resources.html">Resources</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+    <h2>Resources</h2>
+    <p>Dump and label any good resources you come across (past paper questions, flashcards etc) for them to be sorted into categories later.</p>
+    <hr>
+    <h3>Biology</h3>
+    <hr>
+    <h3>Chemistry</h3>
+    <hr>
+    <h3>Maths</h3>
+    <hr>
+    <h3>Physics</h3>
+    <hr>
+    <script src="main.js"></script>
+  </body>
+</html>

@@ -3,7 +3,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h2 {
+h2, #welcome {
   padding-left: 16px;
 }
 
